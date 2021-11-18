@@ -1,6 +1,8 @@
 # fxhash-r3f-template
 
-This is a quickstart template based on create-react-app for creating fxhash tokens using react-three-fiber + typescript.
+This is a quickstart template based on `create-react-app` for creating [`fxhash`](https://www.fxhash.xyz) tokens using [`react-three-fiber`](https://github.com/pmndrs/react-three-fiber) + `typescript`.
+
+![image](https://user-images.githubusercontent.com/5009316/142333930-565052ab-a860-4081-b6b5-3c174e5a17a9.png)
 
 ## Development
 
